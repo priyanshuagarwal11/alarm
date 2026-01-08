@@ -34,10 +34,10 @@ Copy code
 ---
 
 ## ⚙️ How It Works
-1. JavaScript `Date` object fetches current time  
+1. JavaScript `Date` object fetches the current time  
 2. `setInterval()` updates the clock every second  
 3. User sets alarm time using input  
-4. Alarm triggers when current time matches the alarm time  
+4. Alarm triggers when the current time matches the alarm time  
 
 ---
 
